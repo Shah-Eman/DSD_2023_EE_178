@@ -7,9 +7,9 @@
 
 ### Simulation
 
-* 1 Code file(.sv)
-* 1 Constraint file(.xdc)
-
+* [1 Code file(.sv)](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab%20_3/lab3.sv)
+* [1 Constraint file(.xdc)
+](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab%20_3/constraints.xdc)
 ### Report
 
 #### Task 1
