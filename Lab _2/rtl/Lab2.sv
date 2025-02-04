@@ -3,11 +3,11 @@
 // University: UET, Lahore 
 // Engineer: Shah Eman
 // 
-// Design Name: LAB 3
+// Design Name: LAB 2
 // Target Devices: Nexys A7-100T
 //////////////////////////////////////////////////////////////////////////////////
 
-module Lab3(
+module Lab2(
 output x, y,  
     input a, b, c
    ); 
