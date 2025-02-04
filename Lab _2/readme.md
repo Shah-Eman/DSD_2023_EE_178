@@ -1,6 +1,6 @@
 # DSD 2023
 
-## LAB 3
+## LAB 2
 
 **Shah Eman**
 **2023-EE-178**
