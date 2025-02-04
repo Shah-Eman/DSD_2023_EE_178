@@ -7,8 +7,8 @@
 
 ### Simulation
 
-* [1 Code file(.sv)](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab%20_3/rtl/Lab3.sv)
-* [1 TestBench code(.sv)](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab%20_3/constraints/constraints.xdc)
+* [1 Code file(.sv)](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab_3/rtl/lab3.sv)
+* [1 TestBench code(.sv)](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab_3/bench/lab3_tb.sv)
 
 ### Report
 
