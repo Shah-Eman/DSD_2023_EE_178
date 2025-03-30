@@ -26,16 +26,16 @@ The design uses **multiplexers, encoders, decoders, and flip-flops** to efficien
 ## 📜 **Files and Description**
 
 ### 1️⃣ **RTL Folder (rtl/)**
-- [Verilog Code](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab_7/rtl/lab7.sv)
+- [Verilog Code](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/lab_7/rtl/lab7.sv)
 
 ### 2️⃣ **Testbench Folder (testbench/)**
-- [Testbench](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab_7/testbench/lab_7_segment_tb.sv)
+- [Testbench](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/lab_7/testbench/lab_7_segment_tb.sv)
 
 ### 3️⃣ **Constraints Folder (constraints/)**
-- [Constraint File](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab_7/constraints/constraints.xdc)
+- [Constraint File](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/lab_7/constraints/constraints.xdc)
 
 ### 4️⃣ **Docs Folder (docs/)**
-- [Schematic Diagram](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/Lab_7/Docs/Lab7.drawio)
+- [Schematic Diagram](https://github.com/Shah-Eman/DSD_2023_EE_178/blob/main/lab_7/Docs/Lab7.drawio)
 
 ---
 
